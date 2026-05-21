@@ -6,7 +6,7 @@ on:
       - main
       - master
 
-jobs:
+jobsdf:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
